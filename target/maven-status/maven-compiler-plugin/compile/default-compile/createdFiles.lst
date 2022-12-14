@@ -1,0 +1,11 @@
+pageObjects\LaptobNoteBookPageBDD.class
+pageObjects\RetailsPageBDD.class
+pageObjects\RegisterPageObj.class
+pageObjects\HomePageBDD.class
+pageObjects\HomePagePageObj.class
+utilities\Utils.class
+core\Base.class
+utilities\CucumberReportingConfig.class
+pageObjects\DesktopPageBDD.class
+pageObjects\LoginPageObj.class
+pageObjects\DesktopItemsPageObj.class

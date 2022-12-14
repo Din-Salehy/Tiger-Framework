@@ -1,0 +1,10 @@
+stepDefinitions\DektopItemsSteps.class
+stepDefinitions\RegisterSteps.class
+stepDefinitions\LoginSteps.class
+stepDefinitions\RetailStepBDD.class
+stepDefinitions\HomePageStepBDD.class
+stepDefinitions\DeskopStepBDD.class
+stepDefinitions\LaptopNoteBookStepBDD.class
+stepDefinitions\Initializer.class
+stepDefinitions\HomePageSteps.class
+runner\TestRunner.class
